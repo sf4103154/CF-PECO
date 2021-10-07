@@ -2,7 +2,19 @@
 
 The correspondence field perturbation based camera arrangement optimization (PECO) algorithm in Matlab.
 
-Submitted to T-PAMI 2021
+Submitted to T-PAMI 2021 and based on the paper
+
+<pre><code>@article{Fu2017,
+author = {Fu, S. and Safaei, F. and Li, W.},
+doi = {10.1109/TIP.2017.2695102},
+issn = {10577149},
+journal = {IEEE Transactions on Image Processing},
+keywords = {Correspondence field,camera optimization,depth estimation,stereo},
+number = {6},
+title = {{Optimization of camera arrangement using correspondence field to improve depth estimation}},
+volume = {26},
+year = {2017}
+}</code></pre>
 
 ## Requirements
 
